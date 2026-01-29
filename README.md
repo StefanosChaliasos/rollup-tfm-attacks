@@ -2,6 +2,8 @@
 
 Scripts for analyzing Layer 2 rollup data availability costs, compression efficiency, and DoS attack scenarios under EIP-4844 (Proto-Danksharding).
 
+For the prover-killer experiments, look at https://github.com/yourbuddyconner/zkarnage/blob/main/PAPER_REPLICATION.md
+
 ## Setup
 
 ### Prerequisites
